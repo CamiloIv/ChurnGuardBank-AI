@@ -182,7 +182,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 **Contact**
 
-**[Your Name]** - Data Scientist & AI Engineer  
+**Ivan P.** - Data Scientist & AI Engineer  
 📧 [cparraq.98@gmail.com]  
 💼 [LinkedIn](https://www.linkedin.com/in/ivan-camilo-p-75a73917b/)
 
