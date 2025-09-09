@@ -184,7 +184,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **[Your Name]** - Data Scientist & AI Engineer  
 📧 [cparraq.98@gmail.com]  
-💼 ![Perfil LinkedIn](https://www.linkedin.com/in/ivan-camilo-p-75a73917b/)
+💼 [LinkedIn](https://www.linkedin.com/in/ivan-camilo-p-75a73917b/)
 
 ---
 
